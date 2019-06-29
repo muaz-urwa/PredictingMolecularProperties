@@ -24,7 +24,7 @@ Convolutional neural networks have been the champions of modelling complex spati
 
 Convolution operation for graphs has been yeilding state of the art performance for many tasks where data has underlying grpahical structure. This operator accounts for both spatial and structural dependencies. Similarly, graph attention networks have also been developed. These methods have been applied to molecular graphs recently with great success. [1][2]
 
-<img src="img3.png" width="500">
+<img src="img2.png" width="500">
 
 ### Modelling
 [Notebook](https://github.com/muaz-urwa/PredictingMolecularProperties/blob/master/ExploratoyDataAnalysis.ipynb)
