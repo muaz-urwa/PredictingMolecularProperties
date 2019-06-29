@@ -1,6 +1,6 @@
 # PredictingMolecularProperties
 
-This repository is for a kaggle challenge, which aims to develop an algorithm that can predict the magnetic interaction between two atoms in a molecule (i.e., the scalar coupling constant) given the composition and structure of the relevant molecules. 
+This repository is for a [kaggle challenge](https://www.kaggle.com/c/champs-scalar-coupling/overview/evaluation), which aims to develop an algorithm that can predict the magnetic interaction between two atoms in a molecule (i.e., the scalar coupling constant) given the composition and structure of the relevant molecules. 
 
 ### EDA
 [Notebook](https://github.com/muaz-urwa/PredictingMolecularProperties/blob/master/ExploratoyDataAnalysis.ipynb)
