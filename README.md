@@ -2,7 +2,7 @@
 
 This repository is for a [kaggle challenge](https://www.kaggle.com/c/champs-scalar-coupling/overview/evaluation), which aims to develop an algorithm that can predict the magnetic interaction between two atoms in a molecule (i.e., the scalar coupling constant) given the composition and structure of the relevant molecules. 
 
-###### *I have used jupyter notebooks for all the work because of ease of presentation and readbility.
+###### *I have used jupyter notebooks for all the work because of ease of presentation and readbility. Furthermore, I subset the dataset for faster execution.
 
 ### EDA
 [Notebook](https://github.com/muaz-urwa/PredictingMolecularProperties/blob/master/ExploratoyDataAnalysis.ipynb)
